@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=PLED NewDesignator=Power LED
+Added Pin To Net: NetName=IC1_INB- Pin=R10-1

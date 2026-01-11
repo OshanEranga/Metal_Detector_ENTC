@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=D2-1
+Removed Pin From Net: NetName=NetC3_1 Pin=P12-1
+Removed Pin From Net: NetName=NetC3_2 Pin=P12-3
+Removed Member From Class: ClassName=Sheet1 Member=P12
+Change Component Footprint: Designator=J1 Old Footprint=691214110002 New Footprint=TB00750802BE
+Change Component Comment : Designator=J1 Old Comment=691214110002 New Comment=TB007-508-02BE
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=57BBA258-B4B2-4518-AA87-22EF9E9D5922 New ItemGUID= Old RevisionGUID=62586F46-661B-4C5B-B5D8-AFD4E09DC471 New RevisionGUID=
+Change component parameters: Designator = "J1" ("J1"); Footprint = "691214110002"; UniqueID = "\KUVEEPRO" ("\KUVEEPRO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TB007-508-02BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tb007-508-02be/cui-devices?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.digikey.ph/en/products/detail/same-sky-formerly-cui-devices/TB007-508-02BE/10064127?msockid=3bdc366bbe0663d83c1223c0bf3662a6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "14mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB007-508-02BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "490-TB007-508-02BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Same-Sky/TB007-508-02BE?qs=vLWxofP3U2y6PFKAfCqKUQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J2(TB00650803BE)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TB006-508-03BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tb006-508-03be/cui-devices?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/tb006-508.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB006-508-03BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-TB006-508-03BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Same-Sky/TB006-508-03BE?qs=vLWxofP3U2zmvvLYJBQLMA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_1 Pin=J2-1
+Added Pin To Net: NetName=NetC3_2 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=L3-1
+Added Net: Name=NetJ2_2
+Added Member To Class: ClassName=Sheet1 Member=Component J2 TB006-508-03BE

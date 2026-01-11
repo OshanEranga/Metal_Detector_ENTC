@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Metal Detector.PrjPcb]
+   Generated File[Metal Detector.TXT]
+   Generated File[Metal Detector.DRL]
+   Generated File[Metal Detector.LDP]
+   Generated File[Metal Detector.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 15:46:16 On 21/10/2025

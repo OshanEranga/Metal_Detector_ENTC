@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetQ1_2 Pin=Q2-1
+Removed Pin From Net: NetName=NetQ1_3 Pin=Q2-2
+Removed Pin From Net: NetName=NetC2_1 Pin=Q2-3
+Change Component Footprint: Designator=Q2 Old Footprint=FP-135AR-MFG New Footprint=TO254P470X1016X2019-3P
+Change Component Comment : Designator=Q2 Old Comment=2N3906TF New Comment=2SB596
+Change Managed Component Library Link : Designator=Q2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=FFBFAFC9-45D4-43A1-B793-CA97CC8BB50E New ItemGUID= Old RevisionGUID=C2C8E288-E78B-46BA-A5D3-D60FB7E75796 New RevisionGUID=
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "FP-135AR-MFG"; UniqueID = "\VTYRAQKV" ("\VTYRAQKV")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TIP42C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tip42c/on-semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/ds/2/149/TIP42C-890174.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TIP42C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "512-TIP42C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/TIP42C?qs=cnIeywgme7b7B3r0xPyyBQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_3 Pin=Q2-1
+Added Pin To Net: NetName=NetC2_1 Pin=Q2-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q2-3

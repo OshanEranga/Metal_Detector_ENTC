@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=5V Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=5V Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=NetR13_2 Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=NetR21_2 Pin=U2-5
+Removed Pin From Net: NetName=5V Pin=U2-8
+Removed Pin From Net: NetName=NetC7_1 Pin=U3-2
+Removed Pin From Net: NetName=NetR7_1 Pin=U3-3
+Removed Pin From Net: NetName=GND Pin=U3-4
+Removed Pin From Net: NetName=NetP1_1 Pin=U3-6
+Removed Pin From Net: NetName=25kOut2 Pin=U3-7
+Removed Pin From Net: NetName=5V Pin=U3-8
+Removed Member From Class: ClassName=Sheet1 Member=C8
+Removed Member From Class: ClassName=Sheet1 Member=C20
+Removed Member From Class: ClassName=Sheet1 Member=U2
+Removed Member From Class: ClassName=Sheet1 Member=U3
+Added Component: Designator=IC1(DIPS762W61P254L1016H525Q8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "A 08-LC-TT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/a08-lc-tt/assmann-wsw-components-inc?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ASSMANN WSW components GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A 08-LC-TT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC2(DIPS762W61P254L1016H525Q8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "A 08-LC-TT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/a08-lc-tt/assmann-wsw-components-inc?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ASSMANN WSW components GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A 08-LC-TT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetC7_1 Pin=IC1-2
+Added Pin To Net: NetName=NetR7_1 Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=NetP1_1 Pin=IC1-6
+Added Pin To Net: NetName=25kOut2 Pin=IC1-7
+Added Pin To Net: NetName=5V Pin=IC1-8
+Added Pin To Net: NetName=NetR13_2 Pin=IC2-3
+Added Pin To Net: NetName=GND Pin=IC2-4
+Added Pin To Net: NetName=NetR21_2 Pin=IC2-5
+Added Pin To Net: NetName=5V Pin=IC2-8
+Change Net Name : Old Net Name=NetC7_1 New Net Name=IC1_INA-
+Change Net Name : Old Net Name=NetP1_1 New Net Name=IC1_INB-
+Change Net Name : Old Net Name=NetR7_1 New Net Name=IC1_INA+
+Change Net Name : Old Net Name=NetR13_2 New Net Name=IC2_INA+
+Change Net Name : Old Net Name=NetR21_2 New Net Name=IC2_INB+
+Added Pin To Net: NetName=IC1_INB+ Pin=IC1-5
+Added Pin To Net: NetName=IC1_INB+ Pin=R11-2
+Added Pin To Net: NetName=IC1_INB+ Pin=R12-2
+Added Net: Name=IC1_INB+
+Added Pin To Net: NetName=IC2_INA- Pin=C6-2
+Added Pin To Net: NetName=IC2_INA- Pin=IC2-2
+Added Pin To Net: NetName=IC2_INA- Pin=R18-1
+Added Net: Name=IC2_INA-
+Added Pin To Net: NetName=IC2_INB- Pin=C11-1
+Added Pin To Net: NetName=IC2_INB- Pin=IC2-6
+Added Pin To Net: NetName=IC2_INB- Pin=R15-1
+Added Net: Name=IC2_INB-
+Added Pin To Net: NetName=IC2_OUTA Pin=C11-2
+Added Pin To Net: NetName=IC2_OUTA Pin=IC2-1
+Added Pin To Net: NetName=IC2_OUTA Pin=R13-1
+Added Net: Name=IC2_OUTA
+Added Pin To Net: NetName=IC2_OUTB Pin=IC2-7
+Added Pin To Net: NetName=IC2_OUTB Pin=R22-1
+Added Pin To Net: NetName=IC2_OUTB Pin=R23-2
+Added Net: Name=IC2_OUTB
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 MCP6002
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 MCP6002

@@ -1,0 +1,31 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Metal Detector.PcbDoc   21/10/2025  15:46:15
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Metal Detector.TXT
+EIA File   : Metal Detector.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      26mil (0.65mm)                                            Round             46        PTH        16.99inch (431.66mm)
+T2      28mil (0.701mm)                                           Round             17        PTH        8.88inch (225.50mm)
+T3      28mil (0.711mm)                                           Round             8         PTH        3.06inch (77.63mm)
+T4      30mil (0.762mm)                                           Round             9         PTH        6.39inch (162.36mm)
+T5      32mil (0.8mm)                                             Round             6         PTH        1.09inch (27.71mm)
+T6      32mil (0.81mm)                                            Round             2         PTH        0.10inch (2.54mm)
+T7      34mil (0.851mm)                                           Round             8         PTH        2.72inch (69.07mm)
+T8      35mil (0.899mm)                                           Round             4         PTH        2.89inch (73.31mm)
+T9      39mil (1.001mm)                                           Round             4         PTH        3.14inch (79.85mm)
+T10     41mil (1.049mm)                                           Round             20        PTH        4.83inch (122.58mm)
+T11     43mil (1.1mm)                                             Round             9         PTH        5.52inch (140.24mm)
+T12     51mil (1.3mm)                                             Round             3         PTH        0.40inch (10.16mm)
+T13     53mil (1.349mm)                                           Round             6         PTH        1.02inch (25.80mm)
+T14     54mil (1.369mm)                                           Round             3         PTH        0.20inch (5.07mm)
+T15     55mil (1.4mm)                                             Round             6         PTH        1.18inch (29.94mm)
+T16     63mil (1.6mm)                                             Round             2         PTH        0.20inch (5.08mm)
+T17     138mil (3.5mm)                                            Round             2         PTH        4.14inch (105.04mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              155
+
+Total Processing Time (hh:mm:ss) : 00:00:01

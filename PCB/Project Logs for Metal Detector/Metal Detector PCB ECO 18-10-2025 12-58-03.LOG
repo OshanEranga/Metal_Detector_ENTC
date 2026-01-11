@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC7_1 Pin=R10-1
+Removed Pin From Net: NetName=NetP1_1 Pin=R10-2
+Change Comment: Unknown Component : R10
+Change component parameters: Component "R10" not found
+Change component parameters: Component "R25" not found
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2

@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=R10 Old Footprint=RESAD3700W80L1300D600 New Footprint=RESAD4700W80L1900D700
+Change Component Comment : Designator=R10 Old Comment=100 New Comment=200
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RESAD3700W80L1300D600"; UniqueID = "\KWADTCHZ" ("\KWADTCHZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/OY101KE.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Ohmite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "OY101KE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "588-OY-100-E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Ohmite/OY101KE?qs=bFKGzfHqmgwGdTzr3VIwEg%3D%3D"; VariantName = "[No Variations]"

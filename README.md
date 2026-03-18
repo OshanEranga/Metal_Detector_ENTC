@@ -1,4 +1,4 @@
-# Metal Detector ENTC
+# Fully Analog Metal Detector
 
 A comprehensive metal detector project featuring custom PCB design, mechanical enclosure, and detailed documentation.
 
